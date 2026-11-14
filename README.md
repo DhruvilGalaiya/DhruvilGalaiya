@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Developer | Python, NLP & Computer Vision Specialist<br>I am a final year Artificial Intelligence and Machine Learning (AIML) student with a strong academic foundation and hands-on experience building full-stack ML pipelines. I bridge the gap between complex theoretical concepts and practical, working code. My focus is on delivering clean, efficient Python solutions for data analysis, model training, and automation.<br>
+AI/ML Developer | Python, NLP & Computer Vision Specialist<br>I am a Final year Artificial Intelligence and Machine Learning (AIML) student with a strong academic foundation and hands-on experience building full-stack ML pipelines. I bridge the gap between complex theoretical concepts and practical, working code. My focus is on delivering clean, efficient Python solutions for data analysis, model training, and automation.<br>
 
 
 ## 🌐 Socials:
