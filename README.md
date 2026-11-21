@@ -1,5 +1,8 @@
 # 💫 About Me:
-AI/ML Developer | Python, NLP & Computer Vision Specialist<br>I am a Final year Artificial Intelligence and Machine Learning (AIML) student with a strong academic foundation and hands-on experience building full-stack ML pipelines. I bridge the gap between complex theoretical concepts and practical, working code. My focus is on delivering clean, efficient Python solutions for data analysis, model training, and automation.<br>
+AI/ML Developer | Quantitative Reseacher Specialist<br>Quantitative thinker who treats markets as systems to be modeled, not mysteries to be guessed at. Background in quantitative
+analysis and statistical modeling, with a habit of questioning assumptions before trusting a backtest. Adept at building data-
+driven models that hold up under pressure — not just in-sample. Drawn to the intersection of research rigor and market
+intuition.
 
 
 ## 🌐 Socials:
